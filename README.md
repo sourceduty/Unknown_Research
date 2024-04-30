@@ -8,6 +8,8 @@ Unknown Research assists users in several key aspects of the research process. F
 ### Related Links
 
 [Alien Life](https://github.com/sourceduty/Alien_Life)
+<br>
+[Cancer](https://github.com/sourceduty/Cancer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
