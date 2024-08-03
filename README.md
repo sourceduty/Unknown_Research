@@ -10,6 +10,10 @@ Unknown Research assists users in several key aspects of the research process. F
 [Alien Life](https://github.com/sourceduty/Alien_Life)
 <br>
 [Cancer](https://github.com/sourceduty/Cancer)
+<br>
+[Business Research](https://github.com/sourceduty/Business_Research/tree/main)
+<br>
+[Research Automation](https://github.com/sourceduty/Research_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
